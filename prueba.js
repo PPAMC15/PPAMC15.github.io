@@ -203,6 +203,6 @@ boton.addEventListener("click", cambiarColor);
   });
   
   document.getElementById('boton3').addEventListener('click', function(){
-    document.getElementById("dato3").innerHTML = "<b><a href='tel:+5491155749814'><i class='bi bi-telephone'></i>+54-9-11-5574-9814</a></b>"; 
+    document.getElementById("dato3").innerHTML = "<b><a href='tel:+5491158604358'><i class='bi bi-telephone'></i>+54-9-11-5860-4358</a></b>"; 
   });
   
